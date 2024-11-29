@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Zica, estudante de engenharia e programação!
 - 🔭 Atualmente ingressando na área da tecnologia, em busca de algum trabalho
-- ☕ Estudando Javascript, C#, SQL & WEB em geral
+- ☕ Estudando Javascript, CSS & WEB em geral
 - 🚀 Buscando evoluir cada vez mais e oportunidades no mercado de desenvolvimento!
 - 😄 Pronouns: ele/dele
 <div>
