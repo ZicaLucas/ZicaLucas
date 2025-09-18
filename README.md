@@ -3,11 +3,6 @@
 - ☕ Estudando Javascript, CSS & WEB em geral
 - 🚀 Buscando evoluir cada vez mais e oportunidades no mercado de desenvolvimento!
 - 😄 Pronouns: ele/dele
-<div>
-  <a href="https://github.com/ZicaLucas"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZicaLucas&layout=compact&langs_count=16&theme=ocean_dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-JV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
