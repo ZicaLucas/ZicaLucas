@@ -4,8 +4,7 @@
 - 🚀 Buscando evoluir cada vez mais e oportunidades no mercado de desenvolvimento!
 - 😄 Pronouns: ele/dele
 <div>
-  <a href="https://github.com/ZicaLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZicaLucas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/ZicaLucas"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZicaLucas&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>
 
