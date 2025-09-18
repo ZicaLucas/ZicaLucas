@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Zica, estudante de engenharia e programação!
 - 🔭 Dev e análise de sistemas
 - ☕ Estudando Javascript, CSS & WEB em geral
-- 🚀 Buscando evoluir cada vez mais e oportunidades no mercado de desenvolvimento!
+- 🚀 Buscando evoluir cada vez mais e buscando oportunidades no mercado de desenvolvimento!
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-JV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
