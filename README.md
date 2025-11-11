@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Zica, estudante de engenharia e programação!
+## Olá! Eu sou o Lucas Zica, estudante de ADS!
 - 🔭 Dev e análise de sistemas
 - ☕ Estudando Javascript, CSS & WEB em geral
 - 🚀 Buscando evoluir cada vez mais e buscando oportunidades no mercado de desenvolvimento!
